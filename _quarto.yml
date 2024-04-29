@@ -10,11 +10,11 @@ website:
           - text: "基本 Basic"
             href: "基础规则 Rule/基本 Basic/基本 Basic.qmd"
           - text: "支援卡 Support Card"
-            href: "基础规则 Ruel/支援卡 Support Card/支援卡 Support Card.qmd"
+            href: "基础规则 Rule/支援卡 Support Card/支援卡 Support Card.qmd"
     right:
-      - href: 主页 Home.qmd
+      - href: index.qmd
         text: 主页 Home
-      - 背景 about.qmd
+      - 背景 About.qmd
 
 format:
   html:
