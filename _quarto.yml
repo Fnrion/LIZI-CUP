@@ -5,16 +5,16 @@ website:
   title: "栗子杯 LIZI CUP"
   navbar:
     left:
-      - text: "基础规则"
+      - text: "基础规则 Rule"
         menu:
-          - text: "基本"
-            href: "基础规则/基本/基本.qmd"
-          - text: "支援卡"
-            href: "基础规则/支援卡/支援卡.qmd"
+          - text: "基本 Basic"
+            href: "基础规则 Rule/基本 Basic/基本 Basic.qmd"
+          - text: "支援卡 Support Card"
+            href: "基础规则 Ruel/支援卡 Support Card/支援卡 Support Card.qmd"
     right:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: 主页 Home.qmd
+        text: 主页 Home
+      - 背景 about.qmd
 
 format:
   html:
