@@ -2,26 +2,26 @@ project:
   type: website
 
 website:
-  title: "栗子杯 LIZI CUP"
+  title: "栗子杯"
   navbar:
     left:
-      - text: "基础规则 Rule"
+      - text: "基础规则"
         menu:
-          - text: "基本 Basic"
-            href: "基础规则 Rule/基本 Basic/基本 Basic.qmd"
-          - text: "支援卡 Support Card"
-            href: "基础规则 Rule/支援卡 Support Card/支援卡 Support Card.qmd"
-          - text: "禁卡表 Banned Card"
-            href: "禁卡表 Banned Card/禁卡表 Banned Card/禁卡表 Banned Card.qmd"
-      - text: "新手引导 Guide"
+          - text: "基本"
+            href: "基础规则/基本/基本.qmd"
+          - text: "支援卡"
+            href: "基础规则/支援卡/支援卡.qmd"
+          - text: "禁卡表"
+            href: "禁卡表/禁卡表/禁卡表.qmd"
+      - text: "新手引导"
         href: "新手引导/新手引导.qmd"
-      - text: "历届出轮 History Deck"
-        href: "历届出轮 History Deck"
+      - text: "历届出轮"
+        href: "历届出轮"
     right:
-      - href: index.qmd
-        text: 主页 Home
-      - href: 背景 About.qmd
-        text: 背景 About
+      - href: 主页.qmd
+        text: 主页
+      - href: 背景.qmd
+        text: 背景
         
 
 format:
