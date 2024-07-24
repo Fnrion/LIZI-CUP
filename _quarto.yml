@@ -11,22 +11,26 @@ website:
             href: "基础规则 Rule/基本 Basic/基本 Basic.qmd"
           - text: "支援卡 Support Card"
             href: "基础规则 Rule/支援卡 Support Card/支援卡 Support Card.qmd"
+          - text: "禁卡表 Banned Card"
+            href: "禁卡表 Banned Card/禁卡表 Banned Card/禁卡表 Banned Card.qmd"
+      - text: "新手引导 Guide"
+        href: "新手引导/新手引导.qmd"
+      - text: "历届出轮 History Deck"
+        href: "历届出轮 History Deck"
     right:
       - href: index.qmd
         text: 主页 Home
-      - 背景 About.qmd
+      - href: 背景 About.qmd
+        text: 背景 About
+        
 
 format:
   html:
-    theme: Slate
-    include-css:
-      - https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css
-      - https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/slate/bootstrap.min.css
-    include-js:
-      - https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.bundle.min.js
+    theme:
+      light: cosmo
     toc: true
-    fontsize: 0.9em
+    fontsize: 1 em
     linestretch: 1.6
+    backgroundcolor: Ivory
     light: flatly
-    dark: darkly
 editor: visual

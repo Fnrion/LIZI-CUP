@@ -1,7 +1,24 @@
 ---
-title: "支援卡 Support Card"
+title: "支援卡"
+author: "糖炒栗子"
 format: html
 editor: visual
 ---
 
-## 
+## 什么是支援卡:
+
+看是否可以分解，不能分解则为支援卡
+
+![](images/基础规则%206.jpg)
+
+（不是支援卡）
+
+## 支援卡的使用：
+
+UR/SR 除了禁卡表内都可以使用比如雷击
+
+![](images/基础规则%207.jpg)
+
+剩余 N/R 支援卡除了禁卡表内都不可以使用
+
+![](images/基础规则%208.png)

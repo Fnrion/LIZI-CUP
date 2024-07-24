@@ -1,107 +1,44 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "about",
+    "objectID": "基础规则 Rule/支援卡 Support Card/支援卡 Support Card.html",
+    "href": "基础规则 Rule/支援卡 Support Card/支援卡 Support Card.html",
+    "title": "支援卡",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "看是否可以分解，不能分解则为支援卡\n\n（不是支援卡）"
   },
   {
-    "objectID": "about.html#quarto",
-    "href": "about.html#quarto",
-    "title": "about",
+    "objectID": "基础规则 Rule/支援卡 Support Card/支援卡 Support Card.html#什么是支援卡",
+    "href": "基础规则 Rule/支援卡 Support Card/支援卡 Support Card.html#什么是支援卡",
+    "title": "支援卡",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "看是否可以分解，不能分解则为支援卡\n\n（不是支援卡）"
   },
   {
-    "objectID": "about.html#running-code",
-    "href": "about.html#running-code",
-    "title": "about",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "objectID": "基础规则 Rule/支援卡 Support Card/支援卡 Support Card.html#支援卡的使用",
+    "href": "基础规则 Rule/支援卡 Support Card/支援卡 Support Card.html#支援卡的使用",
+    "title": "支援卡",
+    "section": "支援卡的使用：",
+    "text": "支援卡的使用：\nUR/SR 除了禁卡表内都可以使用比如雷击\n\n剩余 N/R 支援卡除了禁卡表内都不可以使用"
+  },
+  {
+    "objectID": "背景 About.html",
+    "href": "背景 About.html",
+    "title": "栗子杯 LIZI CUP",
+    "section": "",
+    "text": "在基础次元的瞳实野市，作为一名穿越后的决斗者，你既没有社长的逆天财力，又没有卡片精灵的眷顾，更没有炫酷的发型、D轮或是紧身衣；同时面对即将到来的栗子杯庆典，你需要使用手头仅有的钻石购买大师包和初始自带的支援卡搭建你的构筑\nIn the city of Domushi located in the foundational dimension, as a duelist who has traveled through time, you neither have the president’s incredible financial resources, nor the favor of card spirits, nor cool hairstyles, D-Wheels, or tight clothing. Meanwhile, facing the upcoming Chestnut Cup celebration, you need to use the only diamonds you have to buy master packs and the support cards that came with your initial setup to build your deck."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "栗子杯",
     "section": "",
-    "text": "::: ##### 在基础次元的瞳实野市，作为一名穿越后的决斗者，你既没有社长的逆天财力，又没有卡片精灵的眷顾，更没有炫酷的发型、D轮或是紧身衣；同时面对即将到来的栗子杯庆典，你需要使用手头仅有的钻石购买大师包和初始自带的支援卡搭建你的构筑\n\nIn the city of Domushi located in the foundational dimension, as a duelist who has traveled through time, you neither have the president’s incredible financial resources, nor the favor of card spirits, nor cool hairstyles, D-Wheels, or tight clothing. Meanwhile, facing the upcoming Chestnut Cup celebration, you need to use the only diamonds you have to buy master packs and the support cards that came with your initial setup to build your deck."
+    "text": "在基础次元的瞳实野市，作为一名穿越后的决斗者，你既没有社长的逆天财力，又没有卡片精灵的眷顾，更没有炫酷的发型、D轮或是紧身衣；同时面对即将到来的栗子杯庆典，你需要使用手头仅有的钻石购买大师包和初始自带的支援卡搭建你的构筑\nIn the city of Domushi located in the foundational dimension, as a duelist who has traveled through time, you neither have the president’s incredible financial resources, nor the favor of card spirits, nor cool hairstyles, D-Wheels, or tight clothing. Meanwhile, facing the upcoming Chestnut Cup celebration, you need to use the only diamonds you have to buy master packs and the support cards that came with your initial setup to build your deck."
   },
   {
-    "objectID": "index.html#quarto",
-    "href": "index.html#quarto",
-    "title": "Home",
+    "objectID": "基础规则 Rule/基本 Basic/基本 Basic.html",
+    "href": "基础规则 Rule/基本 Basic/基本 Basic.html",
+    "title": "比赛基础规则 (5.1版本)",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "index.html#running-code",
-    "href": "index.html#running-code",
-    "title": "Home",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "基础规则/支援卡/支援卡.html",
-    "href": "基础规则/支援卡/支援卡.html",
-    "title": "支援卡",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "基础规则/支援卡/支援卡.html#quarto",
-    "href": "基础规则/支援卡/支援卡.html#quarto",
-    "title": "支援卡",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "基础规则/支援卡/支援卡.html#running-code",
-    "href": "基础规则/支援卡/支援卡.html#running-code",
-    "title": "支援卡",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "基础规则/基本/基本.html",
-    "href": "基础规则/基本/基本.html",
-    "title": "基本",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "基础规则/基本/基本.html#quarto",
-    "href": "基础规则/基本/基本.html#quarto",
-    "title": "基本",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "基础规则/基本/基本.html#running-code",
-    "href": "基础规则/基本/基本.html#running-code",
-    "title": "基本",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "背景 About.html",
-    "href": "背景 About.html",
-    "title": "背景 About",
-    "section": "",
-    "text": "在基础次元的瞳实野市，作为一名穿越后的决斗者，你既没有社长的逆天财力，又没有卡片精灵的眷顾，更没有炫酷的发型、D轮或是紧身衣；同时面对即将到来的栗子杯庆典，你需要使用手头仅有的钻石购买大师包和初始自带的支援卡搭建你的构筑"
-  },
-  {
-    "objectID": "背景 About.html#quarto",
-    "href": "背景 About.html#quarto",
-    "title": "背景 About",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "背景 About.html#running-code",
-    "href": "背景 About.html#running-code",
-    "title": "背景 About",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "text": "每个号只可抽取310抽大包（垃圾包不可抽取）\n\n点击头像查看抽卡合卡数据\n\n进入数据\n\n抽取前号数据应该如图所示\n\n抽取后号数据应该如图所示\n\n在禁卡表的规定下，使用抽取的卡以及支援卡进行组卡"
   }
 ]
