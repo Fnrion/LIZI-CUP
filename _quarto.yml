@@ -20,8 +20,8 @@ website:
     right:
       - href: 主页.qmd
         text: 主页
-      - href: 背景.qmd
-        text: 背景
+      - href: 更多信息.qmd
+        text: 更多
         
 
 format:

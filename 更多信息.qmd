@@ -1,5 +1,5 @@
 ---
-title: "栗子杯"
+title: ""
 format: html
 editor: visual
 ---
