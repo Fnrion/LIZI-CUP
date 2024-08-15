@@ -5,8 +5,8 @@ website:
   title: "栗子杯"
   navbar:
     left:
-      - text: "新手引导"
-        href: "新手引导/新手引导.qmd"
+      - text: "报名教程"
+        href: "报名教程/报名教程.qmd"
       - text: "基础规则"
         menu:
           - text: "基本"
@@ -14,15 +14,15 @@ website:
           - text: "支援卡"
             href: "基础规则/支援卡/支援卡.qmd"
           - text: "禁卡表"
-            href: "禁卡表/禁卡表/禁卡表.qmd"
+            href: "基础规则/禁卡表/禁卡表.qmd"
       - text: "历届出轮"
         href: "历届出轮"
         
     right:
-      - href: 主页.qmd
-        text: 主页
-      - href: 更多信息.qmd
-        text: 更多
+      - href: "主页.qmd"
+        text: "主页"
+      - href: "更多信息.qmd"
+        text: "更多"
         
 
 format:

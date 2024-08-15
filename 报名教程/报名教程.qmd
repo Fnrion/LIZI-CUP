@@ -1,0 +1,34 @@
+---
+title: "新手引导"
+author: "糖炒栗子"
+format: html
+editor: visual
+---
+
+通过 [链接](https://challonge.com/zh_CN/communities/LIZICUP) 进入栗子杯社区
+
+![](/Picture/报名1.png)
+
+::: callout-note
+注册完账户后在设定左侧栏中可以选择"语言"
+:::
+
+在社区中点击"比赛"，在其中找到最新的比赛
+
+![](/Picture/报名2.png)
+
+::: callout-note
+测试期间请点击栗子杯测试3.0
+:::
+
+选择"去注册" — 点击"REGISTER" — 报名成功
+
+![](/Picture/报名4.png)
+
+![](/Picture/报名3.png)
+
+![](/Picture/报名5.png)
+
+::: callout-note
+点击前往设置，输入自定义名称，将比赛名改成与群名片一致
+:::
