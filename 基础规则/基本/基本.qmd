@@ -1,15 +1,17 @@
 ---
-title: "比赛基础规则 (5.1版本)"
+title: "比赛基础规则 (8.16)"
 author: "糖炒栗子"
 format: html
 editor: visual
 ---
 
+# 组卡
+
 在[**禁卡表**](http://localhost:3907/基础规则/禁卡表/禁卡表.html)的规定下，使用**抽取的卡**以及[**支援卡**](https://lizicup.netlify.app/基础规则/支援卡/支援卡.html)进行组卡
 
-每个号只可抽取310抽大包（垃圾包不可抽取）
+每个号只可抽取320抽大包（垃圾包不可抽取）
 
-![](images/基础规则1.png)
+![](/Picture/报名7.jpg)
 
 点击头像查看抽卡合卡数据
 
@@ -21,8 +23,10 @@ editor: visual
 
 抽取前号数据应该如图所示
 
-![](images/基础规则4.png)
+![](/Picture/报名8.jpg)
 
 抽取后号数据应该如图所示
 
-![](images/基础规则5.png)
+![](/Picture/报名9.jpg)
+
+# 比赛
