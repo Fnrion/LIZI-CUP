@@ -1,5 +1,5 @@
 ---
-title: "禁卡表"
+title: "支援卡禁卡表"
 author: "糖炒栗子"
 format: html
 editor: visual
