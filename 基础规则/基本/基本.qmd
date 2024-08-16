@@ -11,7 +11,7 @@ editor: visual
 
 每个号只可抽取320抽大包（垃圾包不可抽取）
 
-![](/Picture/报名7.jpg)
+![](images/基础规则1.png){width="459"}
 
 点击头像查看抽卡合卡数据
 
@@ -23,10 +23,10 @@ editor: visual
 
 抽取前号数据应该如图所示
 
-![](/Picture/报名8.jpg)
+![](images/基础规则4.png)
 
 抽取后号数据应该如图所示
 
-![](/Picture/报名9.jpg)
+![](images/基础规则5.png)
 
 # 比赛
