@@ -19,8 +19,6 @@ website:
         href: "历届出轮"
         
     right:
-      - href: "主页.qmd"
-        text: "主页"
       - href: "更多信息.qmd"
         text: "更多"
         
