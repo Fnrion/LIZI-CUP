@@ -4,3 +4,7 @@ author: "糖炒栗子"
 format: html
 editor: visual
 ---
+
+**查看完整[禁卡表](https://onedrive.live.com/edit?action=edit&id=57B6E6B8B4415384!108&resid=57B6E6B8B4415384!108&ithint=file%2cxlsx&ct=1723808618424&wdOrigin=OFFICECOM-WEB.START.UPLOAD&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=986b45d3-b725-4be6-b258-29450fba1fe3&wdo=2&cid=57b6e6b8b4415384)**
+
+![](Picture/禁卡表1.png){width="284"}
