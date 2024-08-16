@@ -5,6 +5,6 @@ format: html
 editor: visual
 ---
 
-**查看完整[禁卡表](https://1drv.ms/x/s!AoRTQbS45rZXbJMwiSVCciK1oF0?e=Fbg1a1)**
+**查看完整禁卡表**
 
-![](Picture/禁卡表1.png){width="284"}
+![](Picture/禁卡表1.png){width="417"}
