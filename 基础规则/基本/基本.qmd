@@ -1,6 +1,7 @@
 ---
 title: "比赛基础规则 (8.16)"
 author: "糖炒栗子"
+date: "2024-08-16"
 format: html
 editor: visual
 ---
