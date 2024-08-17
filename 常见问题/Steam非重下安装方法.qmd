@@ -1,0 +1,26 @@
+---
+title: "Steam非重下安装方法"
+author: "Xsilosmr"
+format: html
+editor: visual
+---
+
+![](Picture/Steam安装1.png)
+
+![](Picture/Steam安装2.png)
+
+打开这个文件夹
+
+![](Picture/Steam安装3.png)
+
+这个文件夹就是你的md数据  可以建一个文本记一下文件名
+
+然后切新号打开md
+
+![](Picture/Steam安装4.png)
+
+这里会多一个文件夹就是你新号的数据  复制名字  然后把文件夹删掉 
+
+最后把你原来数据文件夹的名字替换成新的 就完事了
+
+换回老号的时候 可以重复以上操作 或者直接复制文本里的名字
