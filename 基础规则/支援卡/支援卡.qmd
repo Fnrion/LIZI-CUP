@@ -16,10 +16,10 @@ editor: visual
 
 ## 支援卡的使用：
 
-UR/SR 除了禁卡表内都可以使用比如雷击
+UR/SR 除了[**禁卡表**](https://lizicup.netlify.app/基础规则/禁卡表/禁卡表.html)内都可以使用比如雷击
 
 ![](images/基础规则%207.jpg)
 
-剩余 N/R 支援卡除了禁卡表内都不可以使用
+剩余 N/R 支援卡除了[**禁卡表**](https://lizicup.netlify.app/基础规则/禁卡表/禁卡表.html)内都不可以使用
 
 ![](images/基础规则%208.png)

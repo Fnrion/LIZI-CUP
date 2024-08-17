@@ -8,7 +8,7 @@ editor: visual
 
 # 组卡
 
-在[**禁卡表**](http://localhost:3907/基础规则/禁卡表/禁卡表.html)的规定下，使用**抽取的卡**以及[**支援卡**](https://lizicup.netlify.app/基础规则/支援卡/支援卡.html)进行组卡
+在[**禁卡表**](https://lizicup.netlify.app/基础规则/禁卡表/禁卡表.html)的规定下，使用**抽取的卡**以及[**支援卡**](https://lizicup.netlify.app/基础规则/支援卡/支援卡.html)进行组卡
 
 每个号只可抽取320抽大包（垃圾包不可抽取）
 
