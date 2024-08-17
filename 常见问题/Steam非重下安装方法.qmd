@@ -1,6 +1,6 @@
 ---
 title: "Steam非重下安装方法"
-author: "Xsilosmr"
+author: "阿浮"
 date: "2024-08-17"
 format: html
 editor: visual
