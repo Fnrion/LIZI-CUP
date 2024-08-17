@@ -9,7 +9,7 @@ website:
         href: "报名教程/报名教程.qmd"
       - text: "基础规则"
         menu:
-          - text: "基本"
+          - text: "比赛基本规则"
             href: "基础规则/基本/基本.qmd"
           - text: "支援卡"
             href: "基础规则/支援卡/支援卡.qmd"
