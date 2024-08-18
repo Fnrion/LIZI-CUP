@@ -15,8 +15,6 @@ website:
             href: "基础规则/支援卡/支援卡.qmd"
           - text: "禁卡表"
             href: "基础规则/禁卡表/禁卡表.qmd"
-      - text: "历届出轮"
-        href: "历届出轮"
       - text: "常见问题"
         menu:
           - text: "Steam非重下安装方法"
@@ -25,6 +23,8 @@ website:
             href: "常见问题/Q&A.qmd"
 
     right:
+      - text: "历届出轮"
+        href: "历届出轮"
       - href: "更多信息.qmd"
         text: "更多"
         
