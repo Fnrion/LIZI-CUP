@@ -8,4 +8,6 @@ editor: visual
 
 查看完整[禁卡表](https://1drv.ms/x/s!AoRTQbS45rZXbJMwiSVCciK1oF0?e=qYiSMJ&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)
 
+群文件内可以查看禁卡表本地版
+
 ![](Picture/禁卡表1.png){width="417"}
