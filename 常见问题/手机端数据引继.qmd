@@ -1,0 +1,8 @@
+---
+title: "手机端数据引继"
+author: "糖炒栗子"
+format: html
+editor: visual
+---
+
+![](常见问题/Picture/手机数据.png)

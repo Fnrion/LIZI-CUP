@@ -21,7 +21,8 @@ website:
             href: "常见问题/Steam非重下安装方法.qmd"
           - text: "Q&A"
             href: "常见问题/Q&A.qmd"
-
+          - text: "手机端数据引继"
+            href: "常见问题/手机端数据引继.qmd"
     right:
       - href: "历届战报/历届战报.qmd"
         text: "历届战报"
