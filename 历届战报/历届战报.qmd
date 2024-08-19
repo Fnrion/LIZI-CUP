@@ -1,0 +1,27 @@
+---
+listing:
+
+  - id: 2024年
+    contents: 
+      - "2024年/*/*.qmd"
+    sort:
+      - "title"
+    type: grid
+    fields: [image, date, title, author]
+    
+  - id: 2023年
+    contents: 
+      - "2023年/*/*.qmd"
+    sort:
+      - "title"
+    type: grid
+    fields: [image, date, title, author]
+
+  - id: 2022年
+    contents: 
+      - "2022年/*/*qmd"
+    sort:
+      - "title"
+    type: grid
+    fields: [image, date, title, author]
+---

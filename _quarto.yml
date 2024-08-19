@@ -23,9 +23,9 @@ website:
             href: "常见问题/Q&A.qmd"
 
     right:
-      - text: "历届出轮"
-        href: "历届出轮"
-      - href: "更多信息.qmd"
+      - href: "历届战报/历届战报.qmd"
+        text: "历届战报"
+      - href: "更多/更多.qmd"
         text: "更多"
         
 

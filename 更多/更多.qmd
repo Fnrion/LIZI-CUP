@@ -1,0 +1,27 @@
+---
+listing:
+
+  - id: 大赛经验
+    contents: 
+      - "大赛经验/*/*.qmd"
+    sort:
+      - "title"
+    type: grid
+    fields: [image, date, title, author]
+    
+  - id: 组卡心得
+    contents: 
+      - "组卡心得/*/*.qmd"
+    sort:
+      - "title"
+    type: grid
+    fields: [image, date, title, author]
+
+  - id: 其他赛事
+    contents: 
+      - "其他赛事/*/*qmd"
+    sort:
+      - "title"
+    type: grid
+    fields: [image, date, title, author]
+---
