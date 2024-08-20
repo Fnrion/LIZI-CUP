@@ -5,4 +5,4 @@ format: html
 editor: visual
 ---
 
-![](常见问题/Picture/手机数据.png)
+![](Picture/手机数据.png)
