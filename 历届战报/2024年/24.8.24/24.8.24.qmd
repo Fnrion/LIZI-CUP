@@ -1,5 +1,5 @@
 ---
-title: "24.8.24"
+title: "24.08.24栗子杯"
 author: "糖炒栗子"
 date: "2024-08-24"
 format: html
@@ -10,18 +10,24 @@ execute:
   message: false
 ---
 
-> 36人参赛
+> 36人参赛，冠军月下竹
 
-账号公布:
+### 冠军：月下竹
 
+![](Picture/1.jpg)
 
-```{r results='hide'}
-library(readxl)
-library(dplyr)
-library(knitr)
-data <- read_excel("8.24账号.xlsx")
-```
+![](Picture/2.jpg)
 
-```{r}
-kable(data)
-```
+![](Picture/3.jpg)
+
+### 亚军：赫赫
+
+![](Picture/4.png)
+
+### 3-4强：苍白的正义
+
+![](Picture/5.png)
+
+### 3-4强：雪融不由春
+
+![](Picture/6.jpg)

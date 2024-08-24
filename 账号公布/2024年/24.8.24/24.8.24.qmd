@@ -1,0 +1,22 @@
+---
+title: "24.08.24卡组公布"
+author: "糖炒栗子"
+date: "2024-08-24"
+format: html
+editor: visual
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r results='hide'}
+library(readxl)
+library(dplyr)
+library(knitr)
+data <- read_excel("8.24账号.xlsx")
+```
+
+```{r}
+kable(data)
+```
