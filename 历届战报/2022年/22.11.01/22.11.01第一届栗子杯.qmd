@@ -1,0 +1,28 @@
+---
+title: "22.11.01第一届栗子杯"
+author: "糖炒栗子"
+format: html
+editor: visual
+---
+
+> 32人参赛，冠军提耶拉尖兵
+
+### 冠军：提耶拉尖兵
+
+![](Picture/冠军.png)
+
+### 亚军：中国剑无法劈烂陨石
+
+![](Picture/亚军.jpg)
+
+### 3-4强 糖炒栗子
+
+![](Picture/3-4强（1）.png)
+
+![](Picture/3-4强（1.1）.png)
+
+### 3-4强 影依的米
+
+![](Picture/3-4强（2）.jpg){width="407"}
+
+![](Picture/3-4强（2.1）.jpg){width="408"}
