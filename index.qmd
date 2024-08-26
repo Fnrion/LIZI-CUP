@@ -11,5 +11,5 @@ editor: visual
 :::
 
 ::: column-screen-inset-left
-![](Picture/Background%204.jpeg)
+[![](Picture/Background%204.jpeg)](https://qm.qq.com/q/bmsUTysocU)
 :::
