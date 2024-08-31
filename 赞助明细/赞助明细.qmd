@@ -4,6 +4,10 @@ author: "糖炒栗子"
 date: "2024-08-31"
 format: html
 editor: visual
+execute:
+  echo: false
+  warning: false
+  message: false
 ---
 
 ```{r}

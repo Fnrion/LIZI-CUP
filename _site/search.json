@@ -270,7 +270,7 @@
     "href": "赞助明细/赞助明细.html",
     "title": "赞助明细",
     "section": "",
-    "text": "library(readxl)\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nlibrary(knitr)\ndata &lt;- read_excel(\"赞助明细.xlsx\")\n\n\nkable(data)\n\n\n\n\n比赛\n赞助人\n赞助金额\n\n\n\n\n周赛_24.09.07\n老头\n￥110"
+    "text": "比赛\n赞助人\n赞助金额\n\n\n\n\n周赛_24.09.07\n牢头\n￥110"
   },
   {
     "objectID": "基础规则/支援卡/支援卡.html",
