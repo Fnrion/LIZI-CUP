@@ -12,7 +12,7 @@ editor: visual
 
 所有不可分解卡都属于[**支援卡**](https://lizicup.netlify.app/基础规则/支援卡/支援卡.html)，支援卡在比赛中只能使用UR及SR和部分N，R卡（详情请参考[**禁卡表**](https://lizicup.netlify.app/基础规则/禁卡表/禁卡表.html)）
 
-## 1.1 禁卡带了会怎么样？
+### 1.1 禁卡带了会怎么样？
 
 小局判负
 
