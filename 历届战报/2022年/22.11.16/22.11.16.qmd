@@ -1,5 +1,5 @@
 ---
-title: "2022.11.16第二届栗子杯"
+title: "22.11.16第二届栗子杯"
 author: "糖炒栗子"
 format: html
 editor: visual
@@ -9,7 +9,7 @@ editor: visual
 
 ### 冠军：kiyo
 
-![](Picture/冠军 1.jpg)
+![](Picture/冠军%201.jpg)
 
 ### 亚军：TedCsz
 
