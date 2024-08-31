@@ -1,5 +1,5 @@
 ---
-title: "24.5.1劳动节赛"
+title: "24.05.01劳动节赛"
 author: "糖炒栗子"
 format: html
 editor: visual
@@ -11,27 +11,27 @@ editor: visual
 
 ### 冠军：随能所任
 
-![](Picture/24.5.1 冠军.jpg)
+![](Picture/24.5.1%20冠军.jpg)
 
 ### 亚军：MUPL1
 
-![](Picture/24.5.1 亚军.jpg)
+![](Picture/24.5.1%20亚军.jpg)
 
 ### 四强：星驱
 
-![](Picture/24.5.1 四强.jpg)
+![](Picture/24.5.1%20四强.jpg)
 
 ### 四强：阿浮
 
-![](Picture/24.5.1 四强（2）.jpg)
+![](Picture/24.5.1%20四强（2）.jpg)
 
 ### 八强：Suka
 
-![](Picture/24.5.1 八强.jpg)
+![](Picture/24.5.1%20八强.jpg)
 
 ### 八强：蹲家
 
-![](Picture/24.5.1 八强（2）.jpg)
+![](Picture/24.5.1%20八强（2）.jpg)
 
 ### 八强：Sicheng
 
@@ -41,4 +41,4 @@ editor: visual
 
 ### 八强：赫赫
 
-![](Picture/24.5.1 八强（4）.jpg)
+![](Picture/24.5.1%20八强（4）.jpg)

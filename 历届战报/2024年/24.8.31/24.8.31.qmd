@@ -1,0 +1,33 @@
+---
+title: "24.08.31栗子杯"
+author: "糖炒栗子"
+date: "2024-08-31"
+format: html
+editor: visual
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+> 16人参赛，冠军幻幻幻龙
+
+### 冠军：幻幻幻龙
+
+![](Picture/BEBD7D0055B526D58338804F8440B926.jpg)
+
+![](Picture/B18E121E023B58B67DEAC5451AE8658D.jpg)
+
+### 亚军：月下竹
+
+![](Picture/6D140BB5DBEED5909959EC8C7A9BC15A.jpg)
+
+![](Picture/C2B7250E44F76DBC417E4A33B1ED7475.jpg)
+
+### 3-4强：jiefeng
+
+![](Picture/8CEF3F6F7C2F25A0EE978856D1296160.png)
+
+![](Picture/1669528259083E2E75F8FAD567A21DBE.png)
+
+### 3-4强：时间洛渊
