@@ -1,5 +1,5 @@
 ---
-title: "手机端数据引继"
+title: "手机/Steam端数据引继"
 author: "糖炒栗子"
 date: "2024-08-19"
 format: html
