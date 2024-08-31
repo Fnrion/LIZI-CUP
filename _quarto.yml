@@ -19,7 +19,7 @@ website:
         menu:
           - text: "Steam非重下安装方法"
             href: "常见问题/Steam非重下安装方法.qmd"
-          - text: "手机端数据引继"
+          - text: "手机/Steam端数据引继"
             href: "常见问题/手机端数据引继.qmd"
           - text: "Q&A"
             href: "常见问题/Q&A.qmd"
