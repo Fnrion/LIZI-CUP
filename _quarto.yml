@@ -27,6 +27,8 @@ website:
     right:
       - href: "历届战报/历届战报.qmd"
         text: "历届战报"
+      - href: "赞助明细/赞助明细.qmd"
+        text: "赞助明细"
       - href: "账号公布/账号公布.qmd"
         text: "账号公布"
       - href: "更多/更多.qmd"
