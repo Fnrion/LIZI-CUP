@@ -22,3 +22,5 @@ data <- read_excel("9.30.xlsx")
 ```{r}
 kable(data)
 ```
+
+\-
