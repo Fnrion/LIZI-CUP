@@ -4,3 +4,5 @@
 .Ruserdata
 /.quarto/
 **/copy.qmd
+.DS_Store
+.DS_Store
