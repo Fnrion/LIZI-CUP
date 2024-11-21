@@ -12,7 +12,7 @@ website:
           - text: "比赛基本规则"
             href: "基础规则/基本/基本.qmd"
           - text: "特殊赛制"
-            href: "特殊规则/组队赛/组队赛.qmd"
+            href: "基础规则/特殊规则/组队赛/组队赛.qmd"
           - text: "支援卡"
             href: "基础规则/支援卡/支援卡.qmd"
           - text: "禁卡表"
