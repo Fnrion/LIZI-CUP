@@ -1,0 +1,13 @@
+name: LIZI-CUP
+title: LIZI-CUP
+username: tangchaolizi
+account: tangchaolizi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13674766
+bundleId: 9646838
+url: https://tangchaolizi.shinyapps.io/LIZI-CUP/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: _quarto.yml|.RData|data/11_16.xlsx|index_files/execute-results/html.json|index.qmd|index.rmarkdown|赞助明细/赞助明细.html|赞助明细/赞助明细.qmd|赞助明细/赞助明细.xlsx|_site|AI ICON|Picture|历届战报|基础规则|常见问题|报名教程|更多|账号公布
