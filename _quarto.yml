@@ -33,6 +33,8 @@ website:
         text: "赞助明细"
       - href: "账号公布/账号公布.qmd"
         text: "账号公布"
+      - href: "https://tangchaolizi.shinyapps.io/LIZI-CUP/"
+        text: "用户"
       - href: "更多/更多.qmd"
         text: "更多"
         
